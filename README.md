@@ -1,1 +1,1 @@
-# ConfigServer
+# ConfigServerExample
